@@ -31,9 +31,9 @@ My homepage has been moved to [zwchen.pages.dev](https://zwchen.pages.dev/).
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronchan037&repo=Mini-STL)](https://github.com/aaronchan037/Mini-STL) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronchan037&repo=learn-git)](https://github.com/aaronchan037/learn-git)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronchan037&repo=articles)](https://github.com/aaronchan037/articles) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronchan037&repo=hello-world)](https://github.com/aaronchan037/hello-world) -->
 
-<!-- 隐藏显示的语言有：shell, tex, makefile, C, Perl, Lua -->
+<!-- 隐藏显示的语言有: dockerfile, shell, tex, makefile, C, Perl, Lua -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronchan037&hide=shell,tex,makefile,c,perl,lua&layout=compact)](https://github.com/aaronchan037/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronchan037&hide=dockerfile,shell,tex,makefile,c,perl,lua&layout=compact)](https://github.com/aaronchan037/github-readme-stats)
 
 </div>
 
