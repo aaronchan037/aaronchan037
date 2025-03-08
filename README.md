@@ -33,7 +33,7 @@ My homepage has been moved to [zwchen.pages.dev](https://zwchen.pages.dev/).
 
 <!-- 隐藏显示的语言有: dockerfile, shell, tex, makefile, C, Perl, Lua -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronchan037&hide=dockerfile,shell,tex,makefile,c,perl,lua&layout=compact)](https://github.com/aaronchan037/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronchan037&hide=dockerfile,shell,tex,makefile,c,cmake,javascript,perl,lua&layout=compact)](https://github.com/aaronchan037/github-readme-stats)
 
 </div>
 
