@@ -23,7 +23,6 @@ My homepage has been moved to [zwchen.pages.dev](https://zwchen.pages.dev/).
 
 ## About Some Projects
 
-- [Mini-STL](https://github.com/aaronchan037/Mini-STL): ![GitHub repo size](https://img.shields.io/github/repo-size/aaronchan037/Mini-STL) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/aaronchan037/Mini-STL)
 - [Cryptology Tools](https://github.com/aaronchan037/My-Cryptology-Tools): Sorry, there was an irreversible error in this algorithm, and I deleted the entire repository.
 - [Aaron's Notebook](https://github.com/aaronchan037/aaron-notebook): ![GitHub repo size](https://img.shields.io/github/repo-size/aaronchan037/aaron-notebook) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/aaronchan037/aaron-notebook)
 
